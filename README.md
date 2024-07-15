@@ -48,3 +48,12 @@
 <p>To play against the AI, run:</p>
 
 <pre><code>python
+
+
+  <h2>Acknowledgments</h2>
+
+<ul>
+  <li>This project was implemented as part of the coursework for Harvard University's CS50 Introduction to Artificial Intelligence with Python.
+ </li>
+</ul>
+
