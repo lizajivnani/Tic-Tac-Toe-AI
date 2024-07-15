@@ -43,11 +43,27 @@
   </li>
 </ol>
 
+
+
 <h2>Usage</h2>
 
 <p>To play against the AI, run:</p>
 
-<pre><code>python runner.py </code>
+<pre><code>python runner.py</code></pre>
+
+<h2>Implementation Details</h2>
+
+<p>The <code>tictactoe.py</code> file contains the following key functions:</p>
+
+<ul>
+  <li><code>player(board)</code>: Determines which player's turn it is</li>
+  <li><code>actions(board)</code>: Returns all possible actions for the current board state</li>
+  <li><code>result(board, action)</code>: Returns the resulting board state after an action</li>
+  <li><code>winner(board)</code>: Determines the winner of the game, if any</li>
+  <li><code>terminal(board)</code>: Checks if the game has ended</li>
+  <li><code>utility(board)</code>: Assigns a utility value to terminal game states</li>
+  <li><code>minimax(board)</code>: Implements the Minimax algorithm to determine the optimal move</li>
+</ul>
 
 
   <h2>Acknowledgments</h2>
