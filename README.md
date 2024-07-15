@@ -4,7 +4,7 @@
 
 <h2>🚀 Project Description</h2>
 
-<p>This project implements an AI to optimally play Tic-Tac-Toe using the Minimax algorithm. </p>
+<p>This project implements an AI to optimally play Tic-Tac-Toe using the Minimax algorithm. Watch <href src = "https://www.youtube.com/watch?v=3QUrHA7NJHc"> this </href>video for a demo</p>
 
 
 <h2>Features</h2>
