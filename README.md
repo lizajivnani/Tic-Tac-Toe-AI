@@ -2,9 +2,13 @@
 
 <p>Welcome to the Tic-Tac-Toe challenge! This isn't your average X's and O's game – it's a showdown between human intuition and machine intelligence. Are you ready to match wits with a computer that never loses?</p>
 
+<h2>🎥 See It in Action!</h2>
+
+<p><a href="https://www.youtube.com/watch?v=3QUrHA7NJHc" target="_blank">🔗 Click here to watch the demo video</a></p>
+
 <h2>🚀 Project Description</h2>
 
-<p>This project implements an AI to optimally play Tic-Tac-Toe using the Minimax algorithm. Watch <href src = "https://www.youtube.com/watch?v=3QUrHA7NJHc"> this </href>video for a demo</p>
+<p>This project implements an AI to optimally play Tic-Tac-Toe using the Minimax algorithm. 
 
 
 <h2>Features</h2>
