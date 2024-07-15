@@ -1,4 +1,4 @@
-h1>Tic-Tac-Toe AI: Unbeatable Intelligence at Play!</h1>
+<h1>Tic-Tac-Toe AI: Unbeatable Intelligence at Play!</h1>
 
 <p>Welcome to the Tic-Tac-Toe challenge! This isn't your average X's and O's game – it's a showdown between human intuition and machine intelligence. Are you ready to match wits with a computer that never loses?</p>
 
