@@ -47,7 +47,7 @@
 
 <p>To play against the AI, run:</p>
 
-<pre><code>python
+<pre><code>python runner.py </code>
 
 
   <h2>Acknowledgments</h2>
