@@ -24,7 +24,7 @@
 <h2>Requirements</h2>
 
 <ul>
-  <li>Python 3.10 (recommended for compatibility with the course)</li>
+  <li>Python 3.10  or higher</li>
   <li>Pygame library</li>
 </ul>
 
